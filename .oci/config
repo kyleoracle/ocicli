@@ -1,0 +1,8 @@
+[DEFAULT]
+tenancy=xxx
+region=ap-seoul-1
+user=xxx
+fingerprint=38:44:50:xxx
+key_file=/Users/kyle/.oci/oci_api_key.pem
+[xxx]
+xxx=xxx
